@@ -2,7 +2,7 @@
 % location. 
 
 % Read an image from a file into a matrix. 
-image = imread('Photos\IMG_20160108_185409.jpg');
+image = imread('Photos\large.jpg');
 imshow(image)
 
 %convert the image to a gray scale image
