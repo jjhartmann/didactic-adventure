@@ -20,7 +20,7 @@
 int main()
 {
 
-
+    Image coins("../../Photos/large.jpg");
 
 
     return 0;
