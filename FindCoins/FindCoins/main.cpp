@@ -1,8 +1,19 @@
-// Main File
-// Find and return coins given a image. 
+////////////////////////////////////////////////////////////////////////////////////
+// Header: main.cpp
+// Built: Jeremy J Hartmann
+// Date: 01-08-2016
+//
+// A basic application that finds and returns the x-y coordinates of the 
+// the coins that it finds. 
+//
+////////////////////////////////////////////////////////////////////////////////////
+
 #include <iostream>
 
+
 #include "Image.h"
+#include "Mask.h"
+
 
 
 
